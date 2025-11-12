@@ -21,5 +21,5 @@ func main() {
 }
 
 /*
-git submodule add <repo-url> <path>    添加子模块到指定目录
+git submodule add -b <branch> <repo-url> <path>  添加子模块到指定目录
 */
