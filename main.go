@@ -19,3 +19,7 @@ func main() {
 		fmt.Println("i =", 100/i)
 	}
 }
+
+/*
+git submodule add <repo-url> <path>    添加子模块到指定目录
+*/
